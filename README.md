@@ -9,7 +9,7 @@
 
 
 
-- ✊ I'm currently improving my ML skills
+- ✊ I'm currently learning NLP
 - 💬 Ask me about **Python, Django, Keras, Tensorflow**
 - 🏃‍♂️ Fun fact: I'm trail runner
 
