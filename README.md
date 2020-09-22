@@ -4,7 +4,11 @@
 
 
 
+
 <h4 >A ML and backend developer from Colombia, passionate about performance code, building solutions, new challenges as well as new technologies</h4>
+
+
+
 
 - 💬 Ask me about **Python, Django, Keras and Tensorflow**
 
@@ -12,7 +16,7 @@
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
+	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
    <br/>
     <p align="left">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -23,7 +27,7 @@
     </p>
   </details>
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Frontend Development</b></summary>
+	<summary>🖌️&nbsp;&nbsp;&nbsp;<b>Frontend Development</b></summary>
    <br/>
     <p align="left">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -33,7 +37,7 @@
     </p>
   </details>  
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>AI/ML</b></summary>
+	<summary>🧠&nbsp;&nbsp;&nbsp;<b>AI/ML</b></summary>
    <br/>
    <p align="left">
      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -43,7 +47,7 @@
    </p>
   </details>    
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Database</b></summary>
+	<summary>🗄️&nbsp;&nbsp;&nbsp;<b>Database</b></summary>
    <br/>
    <p align="left">
      <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -51,7 +55,7 @@
    </p>
   </details>     
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Data Visualization</b></summary>
+	<summary>📉&nbsp;&nbsp;&nbsp;<b>Data Visualization</b></summary>
    <br/>
    <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/>
@@ -59,7 +63,7 @@
    </p>
   </details>       
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Devops</b></summary>
+	<summary>🐋&nbsp;&nbsp;&nbsp;<b>Devops</b></summary>
    <br/>
    <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -69,14 +73,14 @@
    </p>
   </details>     
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Backend as a Service(BaaS)</b></summary>
+	<summary>☁️&nbsp;&nbsp;&nbsp;<b>Backend as a Service(BaaS)</b></summary>
    <br/>
    <p align="left">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    </p>
   </details>       
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Framework</b></summary>
+	<summary>⚙️&nbsp;&nbsp;&nbsp;<b>Framework</b></summary>
    <br/>
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
@@ -86,7 +90,7 @@
  </p>
   </details>       
   <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Other</b></summary>
+	<summary>🐧&nbsp;&nbsp;&nbsp;<b>Other</b></summary>
    <br/>
     <p align="left">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -97,10 +101,16 @@
 </details>
 
 <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
+	<summary>📊&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
 	<br/>  
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>  
+	<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>
 </details>
 
 
 
+----
+<p align="left">
+<a href="https://twitter.com/nildiert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nildiert" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/nildiert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/nildiert" height="30" width="30" /></a>
+<a href="https://medium.com/@niljordan23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@niljordan23" height="30" width="30" /></a>
+</p>
