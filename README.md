@@ -95,9 +95,5 @@
   </details>     
   
 </details>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildiert&layout=compact" alt="nildiert" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>
 
