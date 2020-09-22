@@ -9,8 +9,9 @@
 
 
 
-
-- 💬 Ask me about **Python, Django, Keras and Tensorflow**
+- ✊ I'm currently improving my ML skills
+- 💬 Ask me about **Python, Django, Keras, Tensorflow**
+- 🏃‍♂️ Fun fact: I'm trail runner
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
@@ -101,14 +102,18 @@
 </details>
 
 <details>
-	<summary>📊&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
+	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>  
 	<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>
 </details>
 
 
 
-----
+---
+
+
+**You can find me on:**
+
 <p align="left">
 <a href="https://twitter.com/nildiert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nildiert" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/nildiert" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/nildiert" height="30" width="30" /></a>
