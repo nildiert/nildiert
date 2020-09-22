@@ -102,7 +102,7 @@
 </details>
 
 <details>
-	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats (Tap here) </b></summary>
 	<br/>  
 	<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>
 </details>
