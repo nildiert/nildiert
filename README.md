@@ -5,13 +5,14 @@
 
 
 
-<h4 >A ML and backend developer from Colombia, passionate about performance code, building solutions, new challenges as well as new technologies.</h4>
+<h4 >A ML and backend developer from <a href="https://www.youtube.com/watch?v=Vg8LgVOrx6k">Colombia </a> 🇨🇴, passionate about performance code, building solutions, new challenges as well as new technologies.</h4>
 
 
 
 - ✊ I'm currently learning NLP
 - 💬 Ask me about **Python, Django, Keras, Tensorflow**
 - 🏃‍♂️ Fun fact: I'm trail runner
+- 💭 I dream with a world written in Rust ⚙️
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills <small>(Tap here)</small> </b></summary>
