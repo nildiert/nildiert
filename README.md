@@ -9,7 +9,7 @@
 
 
 
-- ✊ I'm currently learning NLP
+- 🤖 I'm currently learning NLP
 - 💬 Ask me about **Python, Django, Keras, Tensorflow**
 - 🏃‍♂️ Fun fact: I'm trail runner
 - 💭 I dream with a world written in Rust ⚙️
