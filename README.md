@@ -95,5 +95,12 @@
   </details>     
   
 </details>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>
+
+<details>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
+	<br/>  
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nildiert&show_icons=true" alt="nildiert" /></p>  
+</details>
+
+
 
