@@ -5,7 +5,7 @@
 
 
 
-<h4 >A ML and backend developer from Colombia, passionate about performance code, building solutions, new challenges as well as new technologies</h4>
+<h4 >A ML and backend developer from Colombia, passionate about performance code, building solutions, new challenges as well as new technologies.</h4>
 
 
 
@@ -14,7 +14,7 @@
 - 🏃‍♂️ Fun fact: I'm trail runner
 
 <details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills <small>(Tap here)</small> </b></summary>
 	<br/>
   <details>
 	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
