@@ -22,7 +22,7 @@
 	<summary>🤖&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
    <br/>
     <p align="left">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>				         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="python" width="40" height="40"/>
       <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
       <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
