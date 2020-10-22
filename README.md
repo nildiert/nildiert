@@ -12,7 +12,7 @@
 - 🤖 I'm currently learning NLP and Golang
 - 💬 Ask me about **JS, Python, Django, Keras, Tensorflow**
 - 🏃‍♂️ Fun fact: I'm trail runner
-- 💭 I dream with a world written in Rust ⚙️ ... or Golang 
+- 💭 I dream with a world written in Go ... or Rust ⚙️ 
 - 🔨 In my free time I am working in [this...](https://github.com/nildiert/Django-socialNetwork)
 
 <details>
