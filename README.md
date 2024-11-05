@@ -9,11 +9,10 @@
 
 
 
-- 🤖 I'm currently learning NLP and Golang
-- 💬 Ask me about **Ruby, Python, Django, Keras, Tensorflow**
+- 🤖 I'm currently working with Rails
+- 💬 Ask me about **Ruby, Python, Django, Rails**
 - 🏃‍♂️ Fun fact: I'm trail runner
-- 💭 I dream with a world written in Go ... or Rust ⚙️ 
-- 🔨 In my free time I am working in [this...](https://github.com/nildiert/Django-socialNetwork)
+- 🔨 In my free time I am working in [Anything for now]()
 
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills <small>(Tap here)</small> </b></summary>
