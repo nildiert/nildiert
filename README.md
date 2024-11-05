@@ -5,7 +5,7 @@
 
 
 
-<h4 >A ML and backend developer from <a href="https://www.youtube.com/watch?v=Vg8LgVOrx6k">Colombia </a> 🇨🇴, passionate about performance code, building solutions, new challenges as well as new technologies.</h4>
+<h4 >A backend developer from <a href="https://www.youtube.com/watch?v=Vg8LgVOrx6k">Colombia </a> 🇨🇴, passionate about performance code, building solutions, new challenges as well as new technologies.</h4>
 
 
 
